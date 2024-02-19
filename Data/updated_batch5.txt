@@ -1,0 +1,1585 @@
+Patient ID: 409
+Age: 55
+BMI: 30
+Symptoms: Joint Pain, Dry Eyes
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Penicillin
+Medication: DMARD and Artificial Tears
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Artificial tears help with dry eyes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and maintain eye health. In case of increased joint pain or vision changes, consult with a rheumatologist or ophthalmologist.
+- Allergy Consideration:
+  - Patient is allergic to Penicillin. Alternative DMARDs may be considered. Consult with a rheumatologist for suitable alternatives.
+Recommendations: Emphasize joint care and use artificial tears as needed.
+---
+Patient ID: 410
+Age: 45
+BMI: 26
+Symptoms: Memory Loss, Chest Pain
+Complications: Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Sulfa Drugs
+Medication: Acetylcholinesterase Inhibitor (Rivastigmine) and Aspirin
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and cardiovascular health. Regular check-ups with a cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Sulfa Drugs. Alternative aspirin formulations may be considered. Consult with a cardiologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 411
+Age: 41
+BMI: 32
+Symptoms: Abdominal Pain, Dry Mouth
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Prokinetic Agent (Domperidone) and Saliva Substitute
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Saliva substitutes alleviate dry mouth.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative prokinetic agents may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and maintain good oral hygiene.
+---
+Patient ID: 412
+Age: 49
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: Pollen
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation. Periodic blood tests are recommended.
+- Allergy Consideration:
+  - Patient has an allergy to Pollen. Iron supplements may still be suitable. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 413
+Age: 54
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 414
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Dairy
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Dairy. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 415
+Age: 56
+BMI: 28
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Peanuts
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 416
+Age: 43
+BMI: 31
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Bee Sting
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Bee Sting. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 417
+Age: 58
+BMI: 27
+Symptoms: Memory Loss, Dizziness
+Complications: Cognitive Decline
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Dust Mites
+Medication: Acetylcholinesterase Inhibitor (Donepezil) and Iron Supplement
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and signs of anemia. Regular cognitive assessments and blood tests are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Dust Mites. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 418
+Age: 44
+BMI: 28
+Symptoms: Hair Loss, Insomnia
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Eggs
+Medication: Biotin Supplement and Melatonin
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Eggs. Alternative biotin supplements may be considered. Consult with a dermatologist for suitable alternatives.
+Recommendations: Monitor hair health and sleep patterns.
+---
+
+Patient ID: 419
+Age: 46
+BMI: 29
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Gluten
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Gluten. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 420
+Age: 53
+BMI: 31
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Tree Nuts
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Tree Nuts. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 421
+Age: 42
+BMI: 27
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Soy
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 422
+Age: 50
+BMI: 28
+Symptoms: Hair Loss, Insomnia
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Fish
+Medication: Biotin Supplement and Melatonin
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Fish. Alternative biotin supplements may be considered. Consult with a dermatologist for suitable alternatives.
+Recommendations: Monitor hair health and sleep patterns.
+---
+Patient ID: 423
+Age: 57
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Eggplant
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Eggplant. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 424
+Age: 48
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Milk
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Milk. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 425
+Age: 52
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Wheat
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Wheat. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 426
+Age: 43
+BMI: 30
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 427
+Age: 49
+BMI: 28
+Symptoms: Hair Loss, Insomnia
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Soy
+Medication: Biotin Supplement and Melatonin
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative biotin supplements may be considered. Consult with a dermatologist for suitable alternatives.
+Recommendations: Monitor hair health and sleep patterns.
+---
+Patient ID: 428
+Age: 45
+BMI: 27
+Symptoms: Memory Loss, Dizziness
+Complications: Cognitive Decline
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Fish
+Medication: Acetylcholinesterase Inhibitor (Donepezil) and Iron Supplement
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and signs of anemia. Regular cognitive assessments and blood tests are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Fish. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 429
+Age: 47
+BMI: 26
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 430
+Age: 44
+BMI: 28
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Peanuts
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 431
+Age: 50
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Milk
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Milk. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 432
+Age: 41
+BMI: 30
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Eggplant
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Eggplant. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 433
+Age: 56
+BMI: 28
+Symptoms: Hair Loss, Insomnia
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Dust Mites
+Medication: Biotin Supplement and Melatonin
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Dust Mites. Alternative biotin supplements may be considered. Consult with a dermatologist for suitable alternatives.
+Recommendations: Monitor hair health and sleep patterns.
+---
+Patient ID: 434
+Age: 48
+BMI: 26
+Symptoms: Memory Loss, Dizziness
+Complications: Cognitive Decline
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Tree Nuts
+Medication: Acetylcholinesterase Inhibitor (Donepezil) and Iron Supplement
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and signs of anemia. Regular cognitive assessments and blood tests are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Tree Nuts. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 435
+Age: 53
+BMI: 31
+Symptoms: Hair Loss, Insomnia
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Wheat
+Medication: Biotin Supplement and Melatonin
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Wheat. Alternative biotin supplements may be considered. Consult with a dermatologist for suitable alternatives.
+Recommendations: Monitor hair health and sleep patterns.
+---
+Patient ID: 436
+Age: 45
+BMI: 27
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Fish
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Fish. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 437
+Age: 49
+BMI: 28
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 438
+Age: 46
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Soy
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 439
+Age: 42
+BMI: 27
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Nuts
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Tree Nuts. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 440
+Age: 50
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation. Periodic blood tests are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 441
+Age: 55
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Fish
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Fish. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 442
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 443
+Age: 52
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Latex
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 444
+Age: 43
+BMI: 30
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Bee Sting
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Bee Sting. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 445
+Age: 54
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Mold
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Mold. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 446
+Age: 49
+BMI: 27
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 447
+Age: 45
+BMI: 28
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Peanuts
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 448
+Age: 46
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Shellfish
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 449
+Age: 42
+BMI: 27
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Wheat
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Wheat. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 450
+Age: 50
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation. Periodic blood tests are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 451
+Age: 55
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Peanuts
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 452
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Dust Mites
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Dust Mites. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 453
+Age: 52
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Mold
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Mold. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 454
+Age: 43
+BMI: 30
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Bee Sting
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Bee Sting. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 455
+Age: 54
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 456
+Age: 49
+BMI: 27
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 457
+Age: 45
+BMI: 28
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Peanuts
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 458
+Age: 46
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Soy
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 459
+Age: 42
+BMI: 27
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 460
+Age: 50
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: Bee Sting
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation. Periodic blood tests are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Bee Sting. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 461
+Age: 55
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Fish
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Fish. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 462
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Mold
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Mold. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 463
+Age: 52
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Latex
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 464
+Age: 43
+BMI: 30
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 465
+Age: 54
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Peanuts
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 466
+Age: 49
+BMI: 27
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 467
+Age: 45
+BMI: 28
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Dust Mites
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Dust Mites. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 468
+Age: 46
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Dust Mites
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Dust Mites. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 469
+Age: 42
+BMI: 27
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 470
+Age: 50
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation. Periodic blood tests are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 471
+Age: 55
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 472
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Peanuts
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 473
+Age: 52
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Soy
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 474
+Age: 43
+BMI: 30
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Fish
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Fish. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 475
+Age: 54
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 476
+Age: 49
+BMI: 27
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Wheat
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Wheat. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 477
+Age: 45
+BMI: 28
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 468
+Age: 46
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Dust Mites
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Dust Mites. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 469
+Age: 42
+BMI: 27
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 470
+Age: 50
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation. Periodic blood tests are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 471
+Age: 55
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 472
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Peanuts
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 473
+Age: 52
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Soy
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 474
+Age: 43
+BMI: 30
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Fish
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Fish. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 475
+Age: 54
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 476
+Age: 49
+BMI: 27
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Wheat
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Wheat. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 477
+Age: 45
+BMI: 28
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 478
+Age: 46
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Latex
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 479
+Age: 42
+BMI: 27
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Dust Mites
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Dust Mites. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 480
+Age: 50
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: Soy
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation. Periodic blood tests are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 481
+Age: 55
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 482
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Peanuts
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 483
+Age: 52
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Shellfish
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 484
+Age: 43
+BMI: 30
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 485
+Age: 54
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Fish
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Fish. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 486
+Age: 49
+BMI: 27
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Wheat
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Wheat. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 487
+Age: 45
+BMI: 28
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 488
+Age: 46
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Soy
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 489
+Age: 42
+BMI: 27
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 490
+Age: 50
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation. Periodic blood tests are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 491
+Age: 55
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Fish
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Fish. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 492
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Wheat
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Wheat. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 493
+Age: 52
+BMI: 29
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Tree Pollen
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative DMARDs and aspirin formulations may be considered. Consult with a rheumatologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 494
+Age: 43
+BMI: 30
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative antiemetics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 495
+Age: 54
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative iron formulations may be considered. Consult with a hematologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 496
+Age: 49
+BMI: 27
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Dust Mites
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Dust Mites. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 497
+Age: 45
+BMI: 28
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Peanuts
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Artificial tears and GLP-1 receptor agonists may still be suitable. Consult with an allergist for suitable alternatives.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---

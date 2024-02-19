@@ -1,0 +1,1410 @@
+Patient ID: 199
+Age: 45
+BMI: 28
+Symptoms: Headache, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing headache and increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular physical activity and monitor for changes in symptoms.
+---
+Patient ID: 200
+Age: 52
+BMI: 26
+Symptoms: Nausea, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing nausea and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 201
+Age: 49
+BMI: 29
+Symptoms: Blurred Vision, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 202
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 203
+Age: 44
+BMI: 28
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 204
+Age: 51
+BMI: 26
+Symptoms: Headache, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing headache and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 205
+Age: 46
+BMI: 27
+Symptoms: Nausea, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing nausea and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 206
+Age: 43
+BMI: 28
+Symptoms: Blurred Vision, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing blurred vision and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 207
+Age: 50
+BMI: 29
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 208
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+----
+
+Patient ID: 209
+Age: 44
+BMI: 28
+Symptoms: Headache, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing headache and increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular physical activity and monitor for changes in symptoms.
+---
+Patient ID: 210
+Age: 52
+BMI: 26
+Symptoms: Nausea, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing nausea and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 211
+Age: 49
+BMI: 29
+Symptoms: Blurred Vision, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 212
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 213
+Age: 44
+BMI: 28
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 214
+Age: 51
+BMI: 26
+Symptoms: Headache, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing headache and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 215
+Age: 46
+BMI: 27
+Symptoms: Nausea, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing nausea and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 216
+Age: 43
+BMI: 28
+Symptoms: Blurred Vision, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing blurred vision and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 217
+Age: 50
+BMI: 29
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 218
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+----
+
+Patient ID: 219
+Age: 44
+BMI: 28
+Symptoms: Headache, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing headache and increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular physical activity and monitor for changes in symptoms.
+---
+Patient ID: 220
+Age: 52
+BMI: 26
+Symptoms: Nausea, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing nausea and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 221
+Age: 49
+BMI: 29
+Symptoms: Blurred Vision, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 222
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 223
+Age: 44
+BMI: 28
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 224
+Age: 51
+BMI: 26
+Symptoms: Headache, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing headache and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 225
+Age: 46
+BMI: 27
+Symptoms: Nausea, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing nausea and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 226
+Age: 43
+BMI: 28
+Symptoms: Blurred Vision, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing blurred vision and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 227
+Age: 50
+BMI: 29
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 228
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+
+Patient ID: 229
+Age: 44
+BMI: 28
+Symptoms: Headache, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing headache and increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular physical activity and monitor for changes in symptoms.
+---
+Patient ID: 230
+Age: 52
+BMI: 26
+Symptoms: Nausea, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing nausea and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 231
+Age: 49
+BMI: 29
+Symptoms: Blurred Vision, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 232
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 233
+Age: 44
+BMI: 28
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 234
+Age: 51
+BMI: 26
+Symptoms: Headache, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing headache and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 235
+Age: 46
+BMI: 27
+Symptoms: Nausea, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing nausea and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 236
+Age: 43
+BMI: 28
+Symptoms: Blurred Vision, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing blurred vision and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 237
+Age: 50
+BMI: 29
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 238
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+
+Patient ID: 239
+Age: 44
+BMI: 28
+Symptoms: Headache, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing headache and increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular physical activity and monitor for changes in symptoms.
+---
+Patient ID: 240
+Age: 52
+BMI: 26
+Symptoms: Nausea, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing nausea and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 241
+Age: 49
+BMI: 29
+Symptoms: Blurred Vision, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 242
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 243
+Age: 44
+BMI: 28
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 244
+Age: 51
+BMI: 26
+Symptoms: Headache, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing headache and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 245
+Age: 46
+BMI: 27
+Symptoms: Nausea, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing nausea and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 246
+Age: 43
+BMI: 28
+Symptoms: Blurred Vision, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing blurred vision and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 247
+Age: 50
+BMI: 29
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 248
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups
+
+---
+Patient ID: 249
+Age: 44
+BMI: 28
+Symptoms: Headache, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing headache and increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular physical activity and monitor for changes in symptoms.
+---
+Patient ID: 250
+Age: 52
+BMI: 26
+Symptoms: Nausea, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing nausea and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 251
+Age: 49
+BMI: 29
+Symptoms: Blurred Vision, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 252
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 253
+Age: 44
+BMI: 28
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 254
+Age: 51
+BMI: 26
+Symptoms: Headache, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing headache and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 255
+Age: 46
+BMI: 27
+Symptoms: Nausea, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing nausea and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 256
+Age: 43
+BMI: 28
+Symptoms: Blurred Vision, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing blurred vision and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 257
+Age: 50
+BMI: 29
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 258
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+
+Patient ID: 259
+Age: 44
+BMI: 28
+Symptoms: Headache, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing headache and increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular physical activity and monitor for changes in symptoms.
+---
+Patient ID: 260
+Age: 52
+BMI: 26
+Symptoms: Nausea, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing nausea and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 261
+Age: 49
+BMI: 29
+Symptoms: Blurred Vision, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 262
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 263
+Age: 44
+BMI: 28
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 264
+Age: 51
+BMI: 26
+Symptoms: Headache, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing headache and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 265
+Age: 46
+BMI: 27
+Symptoms: Nausea, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing nausea and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 266
+Age: 43
+BMI: 28
+Symptoms: Blurred Vision, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing blurred vision and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 267
+Age: 50
+BMI: 29
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 268
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+
+Patient ID: 269
+Age: 44
+BMI: 28
+Symptoms: Headache, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing headache and increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular physical activity and monitor for changes in symptoms.
+---
+Patient ID: 270
+Age: 52
+BMI: 26
+Symptoms: Nausea, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing nausea and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 271
+Age: 49
+BMI: 29
+Symptoms: Blurred Vision, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 272
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 273
+Age: 44
+BMI: 28
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 274
+Age: 51
+BMI: 26
+Symptoms: Headache, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing headache and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 275
+Age: 46
+BMI: 27
+Symptoms: Nausea, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing nausea and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 276
+Age: 43
+BMI: 28
+Symptoms: Blurred Vision, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing blurred vision and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 277
+Age: 50
+BMI: 29
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 278
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+
+Patient ID: 279
+Age: 44
+BMI: 28
+Symptoms: Headache, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing headache and increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular physical activity and monitor for changes in symptoms.
+---
+Patient ID: 280
+Age: 52
+BMI: 26
+Symptoms: Nausea, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing nausea and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 281
+Age: 49
+BMI: 29
+Symptoms: Blurred Vision, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 282
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 283
+Age: 44
+BMI: 28
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 284
+Age: 51
+BMI: 26
+Symptoms: Headache, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing headache and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 285
+Age: 46
+BMI: 27
+Symptoms: Nausea, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing nausea and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 286
+Age: 43
+BMI: 28
+Symptoms: Blurred Vision, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing blurred vision and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 287
+Age: 50
+BMI: 29
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 288
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+
+Patient ID: 289
+Age: 44
+BMI: 28
+Symptoms: Headache, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing headache and increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular physical activity and monitor for changes in symptoms.
+---
+Patient ID: 290
+Age: 52
+BMI: 26
+Symptoms: Nausea, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing nausea and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 291
+Age: 49
+BMI: 29
+Symptoms: Blurred Vision, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 292
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 293
+Age: 44
+BMI: 28
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 294
+Age: 51
+BMI: 26
+Symptoms: Headache, Slow Healing Wounds
+Complications: Wound Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Insulin Therapy
+- How it Treats Symptoms:
+  - Insulin therapy helps control blood sugar levels, addressing headache and promoting faster wound healing.
+- Guidance on Secondary Complications:
+  - Emphasize wound care and monitor for signs of infections.
+Recommendations: Monitor blood sugar levels closely and follow prescribed insulin regimen.
+---
+Patient ID: 295
+Age: 46
+BMI: 27
+Symptoms: Nausea, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin) and Metformin
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing nausea and tingling. Metformin aids in glucose control.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and regular check-ups for neuropathy.
+---
+Patient ID: 296
+Age: 43
+BMI: 28
+Symptoms: Blurred Vision, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing blurred vision and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+Patient ID: 297
+Age: 50
+BMI: 29
+Symptoms: Increased Thirst, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream reduces dry skin inflammation. Canagliflozin, an SGLT2 inhibitor, addresses increased thirst.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Monitor for signs of skin infections and adhere to the prescribed skincare routine.
+---
+Patient ID: 298
+Age: 47
+BMI: 27
+Symptoms: Fatigue, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Metformin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels, addressing fatigue and frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and regular follow-ups.
+---
+

@@ -1,0 +1,1401 @@
+Patient ID: 299
+Age: 55
+BMI: 30
+Symptoms: Fatigue, Weight Loss
+Complications: None
+Habits: Irregular Exercise, Non-Smoker
+Allergies: None
+Medication: GLP-1 Receptor Agonist (Liraglutide)
+- How it Treats Symptoms:
+  - GLP-1 receptor agonists help regulate blood sugar levels, addressing fatigue and promoting weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Encourage regular exercise and monitor for changes in symptoms.
+---
+Patient ID: 300
+Age: 60
+BMI: 25
+Symptoms: Joint Pain, Dry Mouth
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: NSAIDs
+Medication: DPP-4 Inhibitor (Linagliptin) and Topical Moisturizer
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing joint pain. Topical moisturizer alleviates dry mouth.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor joint pain and consider alternative NSAID-free treatments for dry mouth.
+---
+Patient ID: 301
+Age: 65
+BMI: 28
+Symptoms: Memory Loss, Blurred Vision
+Complications: Cognitive Decline
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Donepezil) and Metformin
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Metformin helps regulate blood sugar levels.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and consider neurology consultation.
+Recommendations: Emphasize lifestyle modifications and regular cognitive assessments.
+---
+Patient ID: 302
+Age: 40
+BMI: 32
+Symptoms: Abdominal Pain, Constipation
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Metoclopramide) and Dietary Fiber Supplement
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Dietary fiber supplements address constipation.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 303
+Age: 50
+BMI: 27
+Symptoms: Hair Loss, Tingling in Hands and Feet
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and DPP-4 Inhibitor (Vildagliptin)
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. DPP-4 inhibitors help regulate blood sugar levels.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor hair health and follow prescribed medication regimen.
+---
+Patient ID: 304
+Age: 55
+BMI: 29
+Symptoms: Insomnia, Frequent Urination
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Melatonin and Metformin
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. Metformin helps regulate blood sugar levels, addressing frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize lifestyle modifications and monitor sleep patterns.
+---
+Patient ID: 305
+Age: 45
+BMI: 31
+Symptoms: Chest Pain, Shortness of Breath
+Complications: Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Aspirin and ACE Inhibitor (Enalapril)
+- How it Treats Symptoms:
+  - Aspirin helps with chest pain. ACE inhibitors address cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor cardiovascular health and consider cardiology consultation.
+Recommendations: Emphasize lifestyle modifications and follow cardiovascular medication regimen.
+---
+Patient ID: 306
+Age: 58
+BMI: 26
+Symptoms: Dizziness, Fatigue
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Iron Supplement and Metformin
+- How it Treats Symptoms:
+  - Iron supplements address anemia-related symptoms. Metformin helps regulate blood sugar levels.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 307
+Age: 42
+BMI: 33
+Symptoms: Vision Changes, Frequent Urination
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Vascular Endothelial Growth Factor (VEGF) Inhibitor and Metformin
+- How it Treats Symptoms:
+  - VEGF inhibitors address vision changes. Metformin helps regulate blood sugar levels, addressing frequent urination.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation.
+Recommendations: Emphasize regular eye check-ups and follow prescribed medication regimen.
+---
+Patient ID: 308
+Age: 48
+BMI: 28
+Symptoms: Dry Eyes, Tingling in Hands and Feet
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Artificial Tears and DPP-4 Inhibitor (Saxagliptin)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. DPP-4 inhibitors help regulate blood sugar levels.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+
+Patient ID: 309
+Age: 53
+BMI: 29
+Symptoms: Joint Pain, Nausea
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: NSAIDs
+Medication: Disease-Modifying Antirheumatic Drug (DMARD) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and consider rheumatology consultation.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 310
+Age: 59
+BMI: 27
+Symptoms: Memory Loss, Chest Pain
+Complications: Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Rivastigmine) and Aspirin
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and cardiovascular health.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 311
+Age: 41
+BMI: 32
+Symptoms: Abdominal Pain, Dry Mouth
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Domperidone) and Saliva Substitute
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Saliva substitutes alleviate dry mouth.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis.
+Recommendations: Follow a high-fiber diet and maintain good oral hygiene.
+---
+Patient ID: 312
+Age: 49
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 313
+Age: 54
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Melatonin and Vascular Endothelial Growth Factor (VEGF) Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 314
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 315
+Age: 56
+BMI: 28
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: NSAIDs
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 316
+Age: 43
+BMI: 31
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 317
+Age: 58
+BMI: 27
+Symptoms: Memory Loss, Dizziness
+Complications: Cognitive Decline
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Donepezil) and Iron Supplement
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and signs of anemia.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 318
+Age: 44
+BMI: 28
+Symptoms: Hair Loss, Insomnia
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Melatonin
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor hair health and sleep patterns.
+---
+Patient ID: 319
+Age: 50
+BMI: 29
+Symptoms: Joint Pain, Dry Eyes
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DMARD and Artificial Tears
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Artificial tears help with dry eyes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and maintain eye health.
+Recommendations: Emphasize joint care and use artificial tears as needed.
+---
+Patient ID: 320
+Age: 45
+BMI: 26
+Symptoms: Memory Loss, Chest Pain
+Complications: Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Rivastigmine) and Aspirin
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and cardiovascular health.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 321
+Age: 41
+BMI: 32
+Symptoms: Abdominal Pain, Dry Mouth
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Domperidone) and Saliva Substitute
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Saliva substitutes alleviate dry mouth.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis.
+Recommendations: Follow a high-fiber diet and maintain good oral hygiene.
+---
+Patient ID: 322
+Age: 49
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 323
+Age: 54
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 324
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 325
+Age: 56
+BMI: 28
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: NSAIDs
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 326
+Age: 43
+BMI: 31
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 327
+Age: 58
+BMI: 27
+Symptoms: Memory Loss, Dizziness
+Complications: Cognitive Decline
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Donepezil) and Iron Supplement
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and signs of anemia.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 328
+Age: 44
+BMI: 28
+Symptoms: Hair Loss, Insomnia
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Melatonin
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor hair health and sleep patterns.
+---
+Patient ID: 329
+Age: 55
+BMI: 30
+Symptoms: Joint Pain, Dry Eyes
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DMARD and Artificial Tears
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Artificial tears help with dry eyes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and maintain eye health.
+Recommendations: Emphasize joint care and use artificial tears as needed.
+---
+Patient ID: 330
+Age: 45
+BMI: 26
+Symptoms: Memory Loss, Chest Pain
+Complications: Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Rivastigmine) and Aspirin
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and cardiovascular health.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 331
+Age: 41
+BMI: 32
+Symptoms: Abdominal Pain, Dry Mouth
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Domperidone) and Saliva Substitute
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Saliva substitutes alleviate dry mouth.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis.
+Recommendations: Follow a high-fiber diet and maintain good oral hygiene.
+---
+Patient ID: 332
+Age: 49
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 333
+Age: 54
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 334
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 335
+Age: 56
+BMI: 28
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: NSAIDs
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 336
+Age: 43
+BMI: 31
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 337
+Age: 58
+BMI: 27
+Symptoms: Memory Loss, Dizziness
+Complications: Cognitive Decline
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Donepezil) and Iron Supplement
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and signs of anemia.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 338
+Age: 44
+BMI: 28
+Symptoms: Hair Loss, Insomnia
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Melatonin
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor hair health and sleep patterns.
+---
+Patient ID: 339
+Age: 50
+BMI: 29
+Symptoms: Joint Pain, Dry Eyes
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DMARD and Artificial Tears
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Artificial tears help with dry eyes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and maintain eye health.
+Recommendations: Emphasize joint care and use artificial tears as needed.
+---
+Patient ID: 340
+Age: 45
+BMI: 26
+Symptoms: Memory Loss, Chest Pain
+Complications: Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Rivastigmine) and Aspirin
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and cardiovascular health.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 341
+Age: 41
+BMI: 32
+Symptoms: Abdominal Pain, Dry Mouth
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Domperidone) and Saliva Substitute
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Saliva substitutes alleviate dry mouth.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis.
+Recommendations: Follow a high-fiber diet and maintain good oral hygiene.
+---
+Patient ID: 342
+Age: 49
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 343
+Age: 54
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 344
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 345
+Age: 56
+BMI: 28
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: NSAIDs
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 346
+Age: 43
+BMI: 31
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 347
+Age: 58
+BMI: 27
+Symptoms: Memory Loss, Dizziness
+Complications: Cognitive Decline
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Donepezil) and Iron Supplement
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and signs of anemia.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 348
+Age: 44
+BMI: 28
+Symptoms: Hair Loss, Insomnia
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Melatonin
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor hair health and sleep patterns.
+---
+Patient ID: 349
+Age: 55
+BMI: 30
+Symptoms: Joint Pain, Dry Eyes
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DMARD and Artificial Tears
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Artificial tears help with dry eyes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and maintain eye health.
+Recommendations: Emphasize joint care and use artificial tears as needed.
+---
+Patient ID: 350
+Age: 45
+BMI: 26
+Symptoms: Memory Loss, Chest Pain
+Complications: Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Rivastigmine) and Aspirin
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and cardiovascular health.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 351
+Age: 41
+BMI: 32
+Symptoms: Abdominal Pain, Dry Mouth
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Domperidone) and Saliva Substitute
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Saliva substitutes alleviate dry mouth.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis.
+Recommendations: Follow a high-fiber diet and maintain good oral hygiene.
+---
+Patient ID: 352
+Age: 49
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 353
+Age: 54
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 354
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 355
+Age: 56
+BMI: 28
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: NSAIDs
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 356
+Age: 43
+BMI: 31
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 357
+Age: 58
+BMI: 27
+Symptoms: Memory Loss, Dizziness
+Complications: Cognitive Decline
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Donepezil) and Iron Supplement
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and signs of anemia.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 358
+Age: 44
+BMI: 28
+Symptoms: Hair Loss, Insomnia
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Melatonin
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor hair health and sleep patterns.
+---
+Patient ID: 359
+Age: 50
+BMI: 29
+Symptoms: Joint Pain, Dry Eyes
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DMARD and Artificial Tears
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Artificial tears help with dry eyes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and maintain eye health.
+Recommendations: Emphasize joint care and use artificial tears as needed.
+---
+Patient ID: 360
+Age: 45
+BMI: 26
+Symptoms: Memory Loss, Chest Pain
+Complications: Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Rivastigmine) and Aspirin
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and cardiovascular health.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 361
+Age: 41
+BMI: 32
+Symptoms: Abdominal Pain, Dry Mouth
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Domperidone) and Saliva Substitute
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Saliva substitutes alleviate dry mouth.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis.
+Recommendations: Follow a high-fiber diet and maintain good oral hygiene.
+---
+Patient ID: 362
+Age: 49
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 363
+Age: 54
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 364
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 365
+Age: 56
+BMI: 28
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: NSAIDs
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 366
+Age: 43
+BMI: 31
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 367
+Age: 58
+BMI: 27
+Symptoms: Memory Loss, Dizziness
+Complications: Cognitive Decline
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Donepezil) and Iron Supplement
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and signs of anemia.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 368
+Age: 44
+BMI: 28
+Symptoms: Hair Loss, Insomnia
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Melatonin
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor hair health and sleep patterns.
+---
+Patient ID: 369
+Age: 55
+BMI: 30
+Symptoms: Joint Pain, Dry Eyes
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DMARD and Artificial Tears
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Artificial tears help with dry eyes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and maintain eye health. In case of increased joint pain or vision changes, consult with a rheumatologist or ophthalmologist.
+Recommendations: Emphasize joint care and use artificial tears as needed.
+---
+Patient ID: 370
+Age: 45
+BMI: 26
+Symptoms: Memory Loss, Chest Pain
+Complications: Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Rivastigmine) and Aspirin
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and cardiovascular health. Regular check-ups with a cardiologist are recommended.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 371
+Age: 41
+BMI: 32
+Symptoms: Abdominal Pain, Dry Mouth
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Domperidone) and Saliva Substitute
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Saliva substitutes alleviate dry mouth.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+Recommendations: Follow a high-fiber diet and maintain good oral hygiene.
+---
+Patient ID: 372
+Age: 49
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation. Periodic blood tests are recommended.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 373
+Age: 54
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 374
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 375
+Age: 56
+BMI: 28
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: NSAIDs
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 376
+Age: 43
+BMI: 31
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 377
+Age: 58
+BMI: 27
+Symptoms: Memory Loss, Dizziness
+Complications: Cognitive Decline
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Donepezil) and Iron Supplement
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and signs of anemia. Regular cognitive assessments and blood tests are recommended.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 378
+Age: 44
+BMI: 28
+Symptoms: Hair Loss, Insomnia
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Melatonin
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor hair health and sleep patterns.
+---
+Patient ID: 379
+Age: 50
+BMI: 29
+Symptoms: Joint Pain, Dry Eyes
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DMARD and Artificial Tears
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Artificial tears help with dry eyes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and maintain eye health. In case of increased joint pain or vision changes, consult with a rheumatologist or ophthalmologist.
+Recommendations: Emphasize joint care and use artificial tears as needed.
+---
+Patient ID: 380
+Age: 45
+BMI: 26
+Symptoms: Memory Loss, Chest Pain
+Complications: Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Rivastigmine) and Aspirin
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and cardiovascular health. Regular check-ups with a cardiologist are recommended.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 381
+Age: 41
+BMI: 32
+Symptoms: Abdominal Pain, Dry Mouth
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Domperidone) and Saliva Substitute
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Saliva substitutes alleviate dry mouth.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+Recommendations: Follow a high-fiber diet and maintain good oral hygiene.
+---
+Patient ID: 382
+Age: 49
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation. Periodic blood tests are recommended.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 383
+Age: 54
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 384
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 385
+Age: 56
+BMI: 28
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: NSAIDs
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 386
+Age: 43
+BMI: 31
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 387
+Age: 58
+BMI: 27
+Symptoms: Memory Loss, Dizziness
+Complications: Cognitive Decline
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Donepezil) and Iron Supplement
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and signs of anemia. Regular cognitive assessments and blood tests are recommended.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 388
+Age: 44
+BMI: 28
+Symptoms: Hair Loss, Insomnia
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Melatonin
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor hair health and sleep patterns.
+---
+Patient ID: 389
+Age: 55
+BMI: 30
+Symptoms: Joint Pain, Dry Eyes
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DMARD and Artificial Tears
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Artificial tears help with dry eyes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and maintain eye health. In case of increased joint pain or vision changes, consult with a rheumatologist or ophthalmologist.
+Recommendations: Emphasize joint care and use artificial tears as needed.
+---
+Patient ID: 390
+Age: 45
+BMI: 26
+Symptoms: Memory Loss, Chest Pain
+Complications: Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Rivastigmine) and Aspirin
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and cardiovascular health. Regular check-ups with a cardiologist are recommended.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 391
+Age: 41
+BMI: 32
+Symptoms: Abdominal Pain, Dry Mouth
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Domperidone) and Saliva Substitute
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Saliva substitutes alleviate dry mouth.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+Recommendations: Follow a high-fiber diet and maintain good oral hygiene.
+---
+Patient ID: 392
+Age: 49
+BMI: 28
+Symptoms: Hair Loss, Dizziness
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Iron Supplement
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia and consider hematology consultation. Periodic blood tests are recommended.
+Recommendations: Emphasize dietary changes and follow prescribed medication regimen.
+---
+Patient ID: 393
+Age: 54
+BMI: 30
+Symptoms: Insomnia, Vision Changes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Melatonin and VEGF Inhibitor
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. VEGF inhibitors address vision changes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and consider ophthalmology consultation. Regular eye check-ups are crucial.
+Recommendations: Emphasize regular eye check-ups and monitor sleep patterns.
+---
+Patient ID: 394
+Age: 47
+BMI: 26
+Symptoms: Dry Eyes, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Artificial Tears and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Artificial tears address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor eye health and follow prescribed medication regimen.
+---
+Patient ID: 395
+Age: 56
+BMI: 28
+Symptoms: Joint Pain, Chest Pain
+Complications: Rheumatoid Arthritis, Cardiovascular Issues
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: NSAIDs
+Medication: DMARD and Aspirin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Aspirin helps with chest pain and cardiovascular issues.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and cardiovascular health. Regular check-ups with a rheumatologist and cardiologist are recommended.
+Recommendations: Emphasize joint care and follow prescribed medication regimen.
+---
+Patient ID: 396
+Age: 43
+BMI: 31
+Symptoms: Abdominal Pain, Nausea
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Prokinetic Agent (Metoclopramide) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Dietary changes and consultation with a gastroenterologist may be necessary.
+Recommendations: Follow a high-fiber diet and monitor gastrointestinal symptoms closely.
+---
+Patient ID: 397
+Age: 58
+BMI: 27
+Symptoms: Memory Loss, Dizziness
+Complications: Cognitive Decline
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Acetylcholinesterase Inhibitor (Donepezil) and Iron Supplement
+- How it Treats Symptoms:
+  - Acetylcholinesterase inhibitors address memory loss. Iron supplements help with symptoms related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor cognitive decline and signs of anemia. Regular cognitive assessments and blood tests are recommended.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 398
+Age: 44
+BMI: 28
+Symptoms: Hair Loss, Insomnia
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Biotin Supplement and Melatonin
+- How it Treats Symptoms:
+  - Biotin supplements address hair loss. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Monitor hair health and sleep patterns.
+---

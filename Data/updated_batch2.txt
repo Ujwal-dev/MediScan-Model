@@ -1,0 +1,1456 @@
+Patient ID: 99
+Age: 45
+BMI: 28
+Symptoms: Fatigue, Blurred Vision
+Complications: Cardiovascular Issues
+Habits: Sedentary Lifestyle, Smoker
+Allergies: None
+Medication: Combination Therapy (Metformin and Vildagliptin)
+- How it Treats Symptoms:
+  - Metformin helps control blood sugar levels. Vildagliptin, a DPP-4 inhibitor, addresses symptoms like fatigue and blurred vision.
+- Guidance on Secondary Complications:
+  - Monitor cardiovascular health closely. Smoking cessation support recommended.
+Recommendations: Emphasize lifestyle modifications, monitor cardiovascular health, and provide smoking cessation support.
+---
+Patient ID: 100
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Numbness in Feet
+Complications: Neuropathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: SGLT2 Inhibitor (Dapagliflozin)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors, like dapagliflozin, help reduce glucose reabsorption, addressing increased thirst and numbness in feet.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize regular exercise, monitor for signs of neuropathy.
+---
+Patient ID: 101
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 102
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 103
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and increased thirst.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 104
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 105
+Age: 50
+BMI: 30
+Symptoms: Fatigue, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing fatigue and tingling in hands and feet.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 106
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 107
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagl
+
+iflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 108
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+
+-------------------
+
+Certainly! Here's the next batch of 10 records in the text format with "---" to separate them:
+
+```plaintext
+Patient ID: 109
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and increased thirst.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 110
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 111
+Age: 50
+BMI: 30
+Symptoms: Fatigue, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing fatigue and tingling in hands and feet.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 112
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 113
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 114
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 115
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and increased thirst.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 116
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 117
+Age: 50
+BMI: 30
+Symptoms: Fatigue, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: D
+
+PP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing fatigue and tingling in hands and feet.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+
+--------
+
+Certainly! Here's the next batch of 10 records in the text format with "---" to separate them:
+
+```plaintext
+Patient ID: 118
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 119
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 120
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 121
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and increased thirst.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 122
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 123
+Age: 50
+BMI: 30
+Symptoms: Fatigue, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing fatigue and tingling in hands and feet.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 124
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 125
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGL
+
+T2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 126
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+
+--------
+
+Certainly! Here's the next batch of 10 records in the text format with "---" to separate them:
+
+```plaintext
+Patient ID: 127
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and increased thirst.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 128
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 129
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 130
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 131
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 132
+Age: 50
+BMI: 30
+Symptoms: Fatigue, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing fatigue and tingling in hands and feet.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 133
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing blurred vision and increased thirst.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 134
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 135
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+-----
+
+Certainly! Here's the next batch of 10 records in the text format with "---" to separate them:
+
+```plaintext
+Patient ID: 136
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 137
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 138
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 139
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 140
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 141
+Age: 50
+BMI: 30
+Symptoms: Fatigue, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing fatigue and tingling in hands and feet.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 142
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 143
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 144
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+
+----
+
+Certainly! Here's the next batch of 10 records in the text format with "---" to separate them:
+
+```plaintext
+Patient ID: 145
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 146
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 147
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 148
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 149
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 150
+Age: 50
+BMI: 30
+Symptoms: Fatigue, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing fatigue and tingling in hands and feet.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 151
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 152
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 153
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+
+----------
+
+Certainly! Here's the next batch of 10 records in the text format with "---" to separate them:
+
+```plaintext
+Patient ID: 154
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 155
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 156
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 157
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 158
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 159
+Age: 50
+BMI: 30
+Symptoms: Fatigue, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing fatigue and tingling in hands and feet.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 160
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 161
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 162
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+
+-------
+
+Certainly! Here's the next batch of 10 records in the text format with "---" to separate them:
+
+```plaintext
+Patient ID: 163
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 164
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 165
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 166
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 167
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 168
+Age: 50
+BMI: 30
+Symptoms: Fatigue, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing fatigue and tingling in hands and feet.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 169
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 170
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 171
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+------
+
+Certainly! Here's the next batch of 10 records in the text format with "---" to separate them:
+
+```plaintext
+Patient ID: 172
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 173
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 174
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 175
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 176
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 177
+Age: 50
+BMI: 30
+Symptoms: Fatigue, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing fatigue and tingling in hands and feet.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 178
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 179
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 180
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+
+----
+Certainly! Here's the next batch of 10 records in the text format with "---" to separate them:
+
+```plaintext
+Patient ID: 181
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 182
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 183
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 184
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 185
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 186
+Age: 50
+BMI: 30
+Symptoms: Fatigue, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing fatigue and tingling in hands and feet.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 187
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 188
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 189
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+
+Certainly! Here's the next batch of 10 records in the text format with "---" to separate them:
+
+```plaintext
+Patient ID: 190
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 191
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 192
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 193
+Age: 55
+BMI: 31
+Symptoms: Blurred Vision, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 194
+Age: 48
+BMI: 29
+Symptoms: Dry Skin, Frequent Urination
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Canagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 195
+Age: 50
+BMI: 30
+Symptoms: Fatigue, Tingling in Hands and Feet
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing fatigue and tingling in hands and feet.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+Patient ID: 196
+Age: 55
+BMI: 31
+Symptoms: Increased Thirst, Blurred Vision
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Linagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing increased thirst and blurred vision.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+Recommendations: Emphasize regular eye examinations and lifestyle modifications.
+---
+Patient ID: 197
+Age: 48
+BMI: 29
+Symptoms: Frequent Urination, Dry Skin
+Complications: Skin Infections
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: Topical Steroid Cream and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Topical steroid cream helps reduce inflammation in dry skin. Empagliflozin, an SGLT2 inhibitor, addresses symptoms like frequent urination.
+- Guidance on Secondary Complications:
+  - Emphasize skin care and use prescribed creams.
+Recommendations: Emphasize skin care, use prescribed creams, and monitor for signs of skin infections.
+---
+Patient ID: 198
+Age: 50
+BMI: 30
+Symptoms: Tingling in Hands and Feet, Fatigue
+Complications: Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: DPP-4 Inhibitor (Sitagliptin)
+- How it Treats Symptoms:
+  - DPP-4 inhibitors help regulate blood sugar levels, addressing tingling in hands and feet and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of neuropathy.
+Recommendations: Emphasize lifestyle modifications and monitor for signs of neuropathy.
+---
+
+
+
+

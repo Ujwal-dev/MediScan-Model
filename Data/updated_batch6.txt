@@ -1,0 +1,1488 @@
+Patient ID: 508
+Age: 46
+BMI: 29
+Symptoms: Frequent Urination, Increased Thirst
+Complications: Diabetic Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: None
+Medication: Metformin and Gabapentin
+- How it Treats Symptoms:
+  - Metformin helps regulate blood sugar levels. Gabapentin assists in managing diabetic neuropathy symptoms.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic neuropathy. Regular neurological check-ups are crucial.
+- Allergy Consideration:
+  - No allergies reported.
+Recommendations: Emphasize blood sugar monitoring and follow prescribed medication regimen.
+---
+Patient ID: 509
+Age: 42
+BMI: 27
+Symptoms: Blurred Vision, Fatigue
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Wheat
+Medication: VEGF Inhibitor and Iron Supplement
+- How it Treats Symptoms:
+  - VEGF inhibitors address vision changes. Iron supplements help with symptoms related to anemia and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Wheat. Alternative iron formulations may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and follow prescribed medication regimen.
+---
+Patient ID: 510
+Age: 50
+BMI: 28
+Symptoms: Increased Hunger, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger and supporting weight management.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Latex. GLP-1 receptor agonists may still be suitable. Consult with an endocrinologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 511
+Age: 55
+BMI: 30
+Symptoms: Numbness in Extremities, Frequent Infections
+Complications: Peripheral Neuropathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Dust Mites
+Medication: Gabapentin and Antibiotics (as needed)
+- How it Treats Symptoms:
+  - Gabapentin helps manage numbness in extremities. Antibiotics may be used to address frequent infections.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Dust Mites. Alternative antibiotics may be considered. Consult with a neurologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor infections, and follow prescribed medication regimen.
+---
+Patient ID: 512
+Age: 47
+BMI: 26
+Symptoms: Slow-Healing Wounds, Dry Skin
+Complications: Diabetic Dermopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: Topical Moisturizer and Wound Healing Ointment
+- How it Treats Symptoms:
+  - Topical moisturizers address dry skin. Wound healing ointments assist in the healing of slow-healing wounds.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic dermopathy. Regular dermatological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative topical moisturizers may be considered. Consult with a dermatologist for suitable alternatives.
+Recommendations: Emphasize skincare, monitor wounds, and follow prescribed medication regimen.
+---
+Patient ID: 513
+Age: 52
+BMI: 29
+Symptoms: Tingling Sensation, Increased Urination at Night
+Complications: Diabetic Nephropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Peanuts
+Medication: ACE Inhibitor (Lisinopril)
+- How it Treats Symptoms:
+  - ACE inhibitors help manage blood pressure and symptoms associated with diabetic nephropathy.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic nephropathy. Regular nephrological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Alternative ACE inhibitors may be considered. Consult with a nephrologist for suitable alternatives.
+Recommendations: Emphasize blood pressure monitoring and follow prescribed medication regimen.
+---
+Patient ID: 514
+Age: 43
+BMI: 30
+Symptoms: Itchy Skin, Fatigue
+Complications: Diabetic Neuropathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Antihistamine and Iron Supplement
+- How it Treats Symptoms:
+  - Antihistamines help alleviate itchy skin. Iron supplements assist in managing fatigue related to anemia.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic neuropathy. Regular neurological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative antihistamines may be considered. Consult with a neurologist for suitable alternatives.
+Recommendations: Emphasize skincare, monitor for fatigue, and follow prescribed medication regimen.
+---
+Patient ID: 515
+Age: 54
+BMI: 28
+Symptoms: Blurred Vision, Increased Thirst
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Soy
+Medication: VEGF Inhibitor and Metformin
+- How it Treats Symptoms:
+  - VEGF inhibitors address vision changes. Metformin helps regulate blood sugar levels.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative VEGF inhibitors may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and blood sugar monitoring, and follow prescribed medication regimen.
+---
+Patient ID: 516
+Age: 49
+BMI: 27
+Symptoms: Frequent Urination, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Fish
+Medication: GLP-1 Receptor Agonist (Liraglutide)
+- How it Treats Symptoms:
+  - GLP-1 receptor agonists help regulate blood sugar levels, addressing frequent urination and supporting weight management.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Fish. GLP-1 receptor agonists may still be suitable. Consult with an endocrinologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 517
+Age: 45
+BMI: 28
+Symptoms: Increased Hunger, Nausea
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: GLP-1 Receptor Agonist (Dulaglutide)
+- How it Treats Symptoms:
+  - GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger and nausea.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. GLP-1 receptor agonists may still be suitable. Consult with an endocrinologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 518
+Age: 48
+BMI: 26
+Symptoms: Blurred Vision, Tingling Sensation
+Complications: Diabetic Neuropathy, Diabetic Retinopathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Peanuts
+Medication: Gabapentin, VEGF Inhibitor, and Metformin
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. VEGF inhibitors address blurred vision. Metformin helps regulate blood sugar levels.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic neuropathy and retinopathy. Regular neurological and eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Alternative medications may be considered. Consult with a neurologist, ophthalmologist, and endocrinologist for suitable alternatives.
+Recommendations: Emphasize regular eye and neurological check-ups, and follow prescribed medication regimen.
+---
+Patient ID: 519
+Age: 44
+BMI: 29
+Symptoms: Frequent Urination, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing frequent urination and increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. SGLT2 inhibitors may still be suitable. Consult with an endocrinologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 520
+Age: 51
+BMI: 27
+Symptoms: Dry Skin, Fatigue
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: Topical Moisturizer and Iron Supplement
+- How it Treats Symptoms:
+  - Topical moisturizers address dry skin. Iron supplements assist in managing fatigue related to anemia.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative topical moisturizers and iron formulations may be considered. Consult with a dermatologist and hematologist for suitable alternatives.
+Recommendations: Emphasize skincare, monitor for fatigue, and follow prescribed medication regimen.
+---
+Patient ID: 521
+Age: 46
+BMI: 28
+Symptoms: Itchy Skin, Weight Loss
+Complications: None
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Dust Mites
+Medication: Antihistamine and GLP-1 Receptor Agonist (Liraglutide)
+- How it Treats Symptoms:
+  - Antihistamines help alleviate itchy skin. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Dust Mites. Alternative antihistamines and GLP-1 receptor agonists may be considered. Consult with an allergist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize skincare, monitor weight, and follow prescribed medication regimen.
+---
+Patient ID: 522
+Age: 49
+BMI: 30
+Symptoms: Numbness in Extremities, Dizziness
+Complications: Peripheral Neuropathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Gabapentin and Antihypertensive (Amlodipine)
+- How it Treats Symptoms:
+  - Gabapentin helps manage numbness in extremities. Antihypertensives assist in managing dizziness.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative medications may be considered. Consult with a neurologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor for dizziness, and follow prescribed medication regimen.
+---
+Patient ID: 523
+Age: 47
+BMI: 29
+Symptoms: Slow-Healing Wounds, Increased Thirst
+Complications: Diabetic Dermopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Soy
+Medication: Topical Wound Healing Ointment and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical wound healing ointments assist in the healing of slow-healing wounds. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic dermopathy. Regular dermatological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative topical ointments and SGLT2 inhibitors may be considered. Consult with a dermatologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize wound care, monitor blood sugar levels, and follow prescribed medication regimen.
+---
+Patient ID: 524
+Age: 43
+BMI: 30
+Symptoms: Joint Pain, Insomnia
+Complications: Rheumatoid Arthritis
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Fish
+Medication: DMARD and Melatonin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis. Regular check-ups with a rheumatologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Fish. Alternative DMARDs and sleep aids may be considered. Consult with a rheumatologist for suitable alternatives.
+Recommendations: Emphasize joint care, regular exercise, and follow prescribed medication regimen.
+---
+Patient ID: 525
+Age: 52
+BMI: 28
+Symptoms: Abdominal Pain, Weight Loss
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: Prokinetic Agent (Domperidone) and Anti-Inflammatory (Mesalamine)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Anti-inflammatories assist in managing symptoms related to weight loss.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Regular gastroenterological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative prokinetic agents and anti-inflammatories may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor abdominal symptoms, and follow prescribed medication regimen.
+---
+Patient ID: 526
+Age: 50
+BMI: 27
+Symptoms: Dry Eyes, Increased Thirst
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: VEGF Inhibitor and SGLT2 Inhibitor (Dapagliflozin)
+- How it Treats Symptoms:
+  - VEGF inhibitors address dry eyes. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - No allergies reported.
+Recommendations: Emphasize regular eye check-ups and follow prescribed medication regimen.
+---
+Patient ID: 527
+Age: 55
+BMI: 30
+Symptoms: Nausea, Dizziness
+Complications: None
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Latex
+Medication: Antiemetic (Ondansetron) and Antihypertensive (Losartan)
+- How it Treats Symptoms:
+  - Antiemetics help with nausea. Antihypertensives assist in managing dizziness.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative antiemetics and antihypertensives may be considered. Consult with a gastroenterologist and cardiologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor for nausea and dizziness, and follow prescribed medication regimen.
+---
+Patient ID: 528
+Age: 45
+BMI: 28
+Symptoms: Joint Pain, Fatigue
+Complications: Rheumatoid Arthritis, Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: Dust Mites
+Medication: DMARD and Iron Supplement
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Iron supplements help with symptoms related to anemia and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and anemia. Regular check-ups with a rheumatologist and hematologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Dust Mites. Alternative DMARDs and iron formulations may be considered. Consult with a rheumatologist and hematologist for suitable alternatives.
+Recommendations: Emphasize joint care, monitor for fatigue, and follow prescribed medication regimen.
+---
+Patient ID: 529
+Age: 48
+BMI: 26
+Symptoms: Increased Hunger, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Peanuts
+Medication: GLP-1 Receptor Agonist (Lixisenatide)
+- How it Treats Symptoms:
+  - GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger and supporting weight management.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. GLP-1 receptor agonists may still be suitable. Consult with an endocrinologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 530
+Age: 47
+BMI: 29
+Symptoms: Blurred Vision, Insomnia
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: VEGF Inhibitor and Melatonin
+- How it Treats Symptoms:
+  - VEGF inhibitors address vision changes. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative VEGF inhibitors and sleep aids may be considered. Consult with an ophthalmologist and sleep specialist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups and sleep hygiene, and follow prescribed medication regimen.
+---
+Patient ID: 531
+Age: 50
+BMI: 28
+Symptoms: Dry Skin, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Fish
+Medication: Topical Moisturizer and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical moisturizers address dry skin. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Fish. Alternative topical moisturizers and SGLT2 inhibitors may be considered. Consult with a dermatologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize skincare, monitor blood sugar levels, and follow prescribed medication regimen.
+---
+Patient ID: 532
+Age: 46
+BMI: 27
+Symptoms: Tingling Sensation, Increased Urination at Night
+Complications: Diabetic Nephropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Shellfish
+Medication: Gabapentin and ACE Inhibitor (Enalapril)
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. ACE inhibitors help regulate blood pressure and symptoms associated with diabetic nephropathy.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic nephropathy. Regular neurological and nephrological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative medications may be considered. Consult with a neurologist and nephrologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor for increased urination, and follow prescribed medication regimen.
+---
+Patient ID: 533
+Age: 49
+BMI: 30
+Symptoms: Frequent Infections, Abdominal Pain
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Prokinetic Agent (Metoclopramide) and Antibiotics (as needed)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Antibiotics may be used to address frequent infections.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Regular gastroenterological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative prokinetic agents and antibiotics may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor for abdominal symptoms, and follow prescribed medication regimen.
+---
+Patient ID: 534
+Age: 44
+BMI: 29
+Symptoms: Itchy Skin, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Soy
+Medication: Antihistamine and GLP-1 Receptor Agonist (Dulaglutide)
+- How it Treats Symptoms:
+  - Antihistamines help alleviate itchy skin. GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative antihistamines and GLP-1 receptor agonists may be considered. Consult with an allergist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize skincare, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 535
+Age: 47
+BMI: 29
+Symptoms: Blurred Vision, Weight Loss
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: None
+Medication: VEGF Inhibitor and GLP-1 Receptor Agonist (Liraglutide)
+- How it Treats Symptoms:
+  - VEGF inhibitors address vision changes. GLP-1 receptor agonists help regulate blood sugar levels, addressing weight loss.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - No allergies reported.
+Recommendations: Emphasize regular eye check-ups and follow prescribed medication regimen.
+---
+Patient ID: 536
+Age: 48
+BMI: 26
+Symptoms: Frequent Urination, Nausea
+Complications: None
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Tree Pollen
+Medication: SGLT2 Inhibitor (Empagliflozin) and Antiemetic (Ondansetron)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing frequent urination. Antiemetics help with nausea.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative SGLT2 inhibitors and antiemetics may be considered. Consult with an endocrinologist and gastroenterologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications, monitor for nausea, and follow prescribed medication regimen.
+---
+Patient ID: 537
+Age: 45
+BMI: 28
+Symptoms: Joint Pain, Tingling Sensation
+Complications: Rheumatoid Arthritis, Diabetic Neuropathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Dust Mites
+Medication: DMARD and Gabapentin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Gabapentin helps manage tingling sensations.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and diabetic neuropathy. Regular check-ups with a rheumatologist and neurologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Dust Mites. Alternative DMARDs and medications for neuropathy may be considered. Consult with a rheumatologist and neurologist for suitable alternatives.
+Recommendations: Emphasize joint care, regular exercise, and follow prescribed medication regimen.
+---
+Patient ID: 538
+Age: 46
+BMI: 27
+Symptoms: Dry Skin, Increased Thirst
+Complications: Diabetic Dermopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: Topical Moisturizer and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Topical moisturizers address dry skin. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic dermopathy. Regular dermatological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative topical moisturizers and SGLT2 inhibitors may be considered. Consult with a dermatologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize skincare, monitor blood sugar levels, and follow prescribed medication regimen.
+---
+Patient ID: 539
+Age: 49
+BMI: 30
+Symptoms: Slow-Healing Wounds, Increased Hunger
+Complications: Diabetic Dermopathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Fish
+Medication: Topical Wound Healing Ointment and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Topical wound healing ointments assist in the healing of slow-healing wounds. GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic dermopathy. Regular dermatological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Fish. Alternative topical ointments and GLP-1 receptor agonists may be considered. Consult with a dermatologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize wound care, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 540
+Age: 47
+BMI: 29
+Symptoms: Numbness in Extremities, Fatigue
+Complications: Peripheral Neuropathy, Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Gabapentin and Iron Supplement
+- How it Treats Symptoms:
+  - Gabapentin helps manage numbness in extremities. Iron supplements help with symptoms related to anemia and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy and anemia. Regular neurological and hematological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative medications and iron formulations may be considered. Consult with a neurologist and hematologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor for fatigue, and follow prescribed medication regimen.
+---
+Patient ID: 541
+Age: 48
+BMI: 26
+Symptoms: Abdominal Pain, Weight Loss
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Soy
+Medication: Prokinetic Agent (Metoclopramide) and Anti-Inflammatory (Mesalamine)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Anti-inflammatories assist in managing symptoms related to weight loss.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Regular gastroenterological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative prokinetic agents and anti-inflammatories may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor abdominal symptoms, and follow prescribed medication regimen.
+---
+Patient ID: 542
+Age: 46
+BMI: 27
+Symptoms: Frequent Infections, Dry Eyes
+Complications: None
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Shellfish
+Medication: Antibiotics (as needed) and Artificial Tears
+- How it Treats Symptoms:
+  - Antibiotics may be used to address frequent infections. Artificial tears help with dry eyes.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative antibiotics and artificial tears may be considered. Consult with an allergist and ophthalmologist for suitable alternatives.
+Recommendations: Emphasize good hygiene practices, monitor for infections, and follow prescribed medication regimen.
+---
+Patient ID: 543
+Age: 45
+BMI: 28
+Symptoms: Insomnia, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Melatonin and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative melatonin and SGLT2 inhibitors may be considered. Consult with a sleep specialist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize sleep hygiene, monitor blood sugar levels, and follow prescribed medication regimen.
+---
+Patient ID: 544
+Age: 50
+BMI: 27
+Symptoms: Joint Pain, Blurred Vision
+Complications: Rheumatoid Arthritis, Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Dust Mites
+Medication: DMARD and VEGF Inhibitor
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. VEGF inhibitors help with vision changes related to diabetic retinopathy.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and diabetic retinopathy. Regular check-ups with a rheumatologist and ophthalmologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Dust Mites. Alternative DMARDs and VEGF inhibitors may be considered. Consult with a rheumatologist and ophthalmologist for suitable alternatives.
+Recommendations: Emphasize joint care, regular eye check-ups, and follow prescribed medication regimen.
+---
+Patient ID: 545
+Age: 47
+BMI: 29
+Symptoms: Tingling Sensation, Frequent Urination
+Complications: Diabetic Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Latex
+Medication: Gabapentin and SGLT2 Inhibitor (Dapagliflozin)
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. SGLT2 inhibitors help regulate blood sugar levels, addressing frequent urination.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic neuropathy. Regular neurological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative medications may be considered. Consult with a neurologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor for increased urination, and follow prescribed medication regimen.
+---
+Patient ID: 546
+Age: 48
+BMI: 26
+Symptoms: Dry Eyes, Abdominal Pain
+Complications: Diabetic Retinopathy, Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: VEGF Inhibitor, Prokinetic Agent (Metoclopramide)
+- How it Treats Symptoms:
+  - VEGF inhibitors address dry eyes. Prokinetic agents help with abdominal pain associated with gastroparesis.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and gastroparesis. Regular eye check-ups and gastroenterological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative VEGF inhibitors and prokinetic agents may be considered. Consult with an ophthalmologist and gastroenterologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups, dietary modifications, and follow prescribed medication regimen.
+---
+Patient ID: 547
+Age: 49
+BMI: 30
+Symptoms: Increased Hunger, Weight Loss
+Complications: None
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Fish
+Medication: GLP-1 Receptor Agonist (Lixisenatide)
+- How it Treats Symptoms:
+  - GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger and supporting weight management.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Fish. GLP-1 receptor agonists may still be suitable. Consult with an endocrinologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications and follow prescribed medication regimen.
+---
+Patient ID: 548
+Age: 46
+BMI: 27
+Symptoms: Nausea, Joint Pain
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Antiemetic (Ondansetron) and DMARD
+- How it Treats Symptoms:
+  - Antiemetics help with nausea. DMARDs address joint pain.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative antiemetics and DMARDs may be considered. Consult with a gastroenterologist and rheumatologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications, monitor for nausea and joint pain, and follow prescribed medication regimen.
+---
+Patient ID: 549
+Age: 47
+BMI: 29
+Symptoms: Blurred Vision, Insomnia
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: VEGF Inhibitor and Melatonin
+- How it Treats Symptoms:
+  - VEGF inhibitors address vision changes. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative VEGF inhibitors and melatonin may be considered. Consult with an ophthalmologist and sleep specialist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups, sleep hygiene, and follow prescribed medication regimen.
+---
+Patient ID: 550
+Age: 45
+BMI: 28
+Symptoms: Abdominal Pain, Increased Thirst
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: Prokinetic Agent (Domperidone) and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Regular gastroenterological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative prokinetic agents and SGLT2 inhibitors may be considered. Consult with a gastroenterologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor for abdominal symptoms, and follow prescribed medication regimen.
+---
+Patient ID: 551
+Age: 46
+BMI: 27
+Symptoms: Tingling Sensation, Increased Urination at Night
+Complications: Diabetic Nephropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Peanuts
+Medication: Gabapentin and ACE Inhibitor (Enalapril)
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. ACE inhibitors help regulate blood pressure and symptoms associated with diabetic nephropathy.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic nephropathy. Regular neurological and nephrological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Alternative medications may be considered. Consult with a neurologist and nephrologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor for increased urination, and follow prescribed medication regimen.
+---
+Patient ID: 552
+Age: 49
+BMI: 30
+Symptoms: Dry Skin, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Topical Moisturizer and GLP-1 Receptor Agonist (Dulaglutide)
+- How it Treats Symptoms:
+  - Topical moisturizers address dry skin. GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative topical moisturizers and GLP-1 receptor agonists may be considered. Consult with a dermatologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize skincare, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 553
+Age: 44
+BMI: 29
+Symptoms: Itchy Skin, Increased Thirst
+Complications: Diabetic Dermopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Soy
+Medication: Antihistamine and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Antihistamines help alleviate itchy skin. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic dermopathy. Regular dermatological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative antihistamines and SGLT2 inhibitors may be considered. Consult with an allergist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize skincare, monitor blood sugar levels, and follow prescribed medication regimen.
+---
+Patient ID: 554
+Age: 47
+BMI: 28
+Symptoms: Joint Pain, Fatigue
+Complications: Rheumatoid Arthritis, Anemia
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Tree Pollen
+Medication: DMARD and Iron Supplement
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Iron supplements help with symptoms related to anemia and fatigue.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis and anemia. Regular check-ups with a rheumatologist and hematologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative DMARDs and iron formulations may be considered. Consult with a rheumatologist and hematologist for suitable alternatives.
+Recommendations: Emphasize joint care, monitor for fatigue, and follow prescribed medication regimen.
+---
+Patient ID: 555
+Age: 46
+BMI: 27
+Symptoms: Slow-Healing Wounds, Increased Thirst
+Complications: Diabetic Dermopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Fish
+Medication: Topical Wound Healing Ointment and SGLT2 Inhibitor (Dapagliflozin)
+- How it Treats Symptoms:
+  - Topical wound healing ointments assist in the healing of slow-healing wounds. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic dermopathy. Regular dermatological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Fish. Alternative topical ointments and SGLT2 inhibitors may be considered. Consult with a dermatologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize wound care, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 556
+Age: 49
+BMI: 30
+Symptoms: Numbness in Extremities, Increased Hunger
+Complications: Peripheral Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Latex
+Medication: Gabapentin and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - Gabapentin helps manage numbness in extremities. GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative medications and GLP-1 receptor agonists may be considered. Consult with a neurologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor for increased hunger, and follow prescribed medication regimen.
+---
+Patient ID: 557
+Age: 50
+BMI: 27
+Symptoms: Abdominal Pain, Weight Loss
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Soy
+Medication: Prokinetic Agent (Domperidone) and Anti-Inflammatory (Mesalamine)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Anti-inflammatories assist in managing symptoms related to weight loss.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Regular gastroenterological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative prokinetic agents and anti-inflammatories may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor abdominal symptoms, and follow prescribed medication regimen.
+---
+Patient ID: 558
+Age: 48
+BMI: 26
+Symptoms: Frequent Infections, Dry Eyes
+Complications: None
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Shellfish
+Medication: Antibiotics (as needed) and Artificial Tears
+- How it Treats Symptoms:
+  - Antibiotics may be used to address frequent infections. Artificial tears help with dry eyes.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative antibiotics and artificial tears may be considered. Consult with an allergist and ophthalmologist for suitable alternatives.
+Recommendations: Emphasize good hygiene practices, monitor for infections, and follow prescribed medication regimen.
+---
+Patient ID: 559
+Age: 45
+BMI: 28
+Symptoms: Insomnia, Increased Thirst
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Melatonin and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Melatonin aids in sleep. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative melatonin and SGLT2 inhibitors may be considered. Consult with a sleep specialist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize sleep hygiene, monitor blood sugar levels, and follow prescribed medication regimen.
+---
+Patient ID: 560
+Age: 46
+BMI: 27
+Symptoms: Abdominal Pain, Increased Urination at Night
+Complications: Diabetic Nephropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Peanuts
+Medication: Prokinetic Agent (Metoclopramide) and ACE Inhibitor (Enalapril)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. ACE inhibitors help regulate blood pressure and symptoms associated with diabetic nephropathy.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic nephropathy. Regular neurological and nephrological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Alternative prokinetic agents and ACE inhibitors may be considered. Consult with a gastroenterologist and nephrologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor for abdominal symptoms, and follow prescribed medication regimen.
+---
+Patient ID: 561
+Age: 47
+BMI: 29
+Symptoms: Dry Skin, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Topical Moisturizer and GLP-1 Receptor Agonist (Dulaglutide)
+- How it Treats Symptoms:
+  - Topical moisturizers address dry skin. GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative topical moisturizers and GLP-1 receptor agonists may be considered. Consult with a dermatologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize skincare, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 562
+Age: 48
+BMI: 26
+Symptoms: Tingling Sensation, Increased Thirst
+Complications: Peripheral Neuropathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: Gabapentin and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative medications and SGLT2 inhibitors may be considered. Consult with a neurologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor for increased thirst, and follow prescribed medication regimen.
+---
+Patient ID: 563
+Age: 49
+BMI: 30
+Symptoms: Numbness in Extremities, Joint Pain
+Complications: Peripheral Neuropathy, Rheumatoid Arthritis
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Peanuts
+Medication: Gabapentin, DMARD, and ACE Inhibitor (Enalapril)
+- How it Treats Symptoms:
+  - Gabapentin helps manage numbness in extremities. DMARDs address joint pain associated with rheumatoid arthritis. ACE inhibitors help regulate blood pressure.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy and rheumatoid arthritis. Regular neurological and rheumatological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Alternative medications may be considered. Consult with a neurologist, rheumatologist, and nephrologist for suitable alternatives.
+Recommendations: Emphasize foot care, joint care, monitor blood pressure, and follow prescribed medication regimen.
+---
+Patient ID: 564
+Age: 50
+BMI: 27
+Symptoms: Frequent Infections, Increased Hunger
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Antibiotics (as needed) and GLP-1 Receptor Agonist (Lixisenatide)
+- How it Treats Symptoms:
+  - Antibiotics may be used to address frequent infections. GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative antibiotics and GLP-1 receptor agonists may be considered. Consult with an allergist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize good hygiene practices, monitor for infections, and follow prescribed medication regimen.
+---
+Patient ID: 565
+Age: 46
+BMI: 27
+Symptoms: Blurred Vision, Dry Eyes
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: VEGF Inhibitor and Artificial Tears
+- How it Treats Symptoms:
+  - VEGF inhibitors address blurred vision. Artificial tears help with dry eyes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative VEGF inhibitors and artificial tears may be considered. Consult with an ophthalmologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 566
+Age: 47
+BMI: 29
+Symptoms: Abdominal Pain, Weight Loss
+Complications: Gastroparesis
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Soy
+Medication: Prokinetic Agent (Metoclopramide) and Anti-Inflammatory (Mesalamine)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Anti-inflammatories assist in managing symptoms related to weight loss.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Regular gastroenterological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative prokinetic agents and anti-inflammatories may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor abdominal symptoms, and follow prescribed medication regimen.
+---
+Patient ID: 567
+Age: 48
+BMI: 26
+Symptoms: Joint Pain, Insomnia
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: DMARD and Melatonin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis. Regular check-ups with a rheumatologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative DMARDs and melatonin may be considered. Consult with a rheumatologist and sleep specialist for suitable alternatives.
+Recommendations: Emphasize joint care, sleep hygiene, and follow prescribed medication regimen.
+---
+Patient ID: 568
+Age: 45
+BMI: 28
+Symptoms: Increased Thirst, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: SGLT2 Inhibitor (Empagliflozin) and Anti-Inflammatory (Mesalamine)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst. Anti-inflammatories assist in managing symptoms related to weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative SGLT2 inhibitors and anti-inflammatories may be considered. Consult with an endocrinologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications, monitor blood sugar levels, and follow prescribed medication regimen.
+---
+Patient ID: 569
+Age: 46
+BMI: 27
+Symptoms: Tingling Sensation, Frequent Urination
+Complications: Peripheral Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Peanuts
+Medication: Gabapentin and ACE Inhibitor (Enalapril)
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. ACE inhibitors help regulate blood pressure and symptoms associated with peripheral neuropathy.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological and nephrological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Alternative medications may be considered. Consult with a neurologist and nephrologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor for frequent urination, and follow prescribed medication regimen.
+---
+Patient ID: 570
+Age: 47
+BMI: 29
+Symptoms: Abdominal Pain, Dry Skin
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Soy
+Medication: Prokinetic Agent (Domperidone) and Topical Moisturizer
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Topical moisturizers address dry skin.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Regular gastroenterological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative prokinetic agents and topical moisturizers may be considered. Consult with a gastroenterologist and dermatologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, skincare, and follow prescribed medication regimen.
+---
+Patient ID: 571
+Age: 48
+BMI: 26
+Symptoms: Blurred Vision, Joint Pain
+Complications: Diabetic Retinopathy, Rheumatoid Arthritis
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Shellfish
+Medication: VEGF Inhibitor and DMARD
+- How it Treats Symptoms:
+  - VEGF inhibitors address blurred vision. DMARDs help manage joint pain associated with rheumatoid arthritis.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy and rheumatoid arthritis. Regular eye and rheumatological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative VEGF inhibitors and DMARDs may be considered. Consult with an ophthalmologist and rheumatologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups, joint care, and follow prescribed medication regimen.
+---
+Patient ID: 572
+Age: 49
+BMI: 30
+Symptoms: Increased Hunger, Weight Loss
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: GLP-1 Receptor Agonist (Liraglutide) and Anti-Inflammatory (Mesalamine)
+- How it Treats Symptoms:
+  - GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger. Anti-inflammatories assist in managing symptoms related to weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative GLP-1 receptor agonists and anti-inflammatories may be considered. Consult with an endocrinologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications, monitor blood sugar levels, and follow prescribed medication regimen.
+---
+Patient ID: 573
+Age: 50
+BMI: 27
+Symptoms: Dry Eyes, Frequent Urination
+Complications: None
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Egg
+Medication: Artificial Tears and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Artificial tears help with dry eyes. SGLT2 inhibitors help regulate blood sugar levels, addressing frequent urination.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative artificial tears and SGLT2 inhibitors may be considered. Consult with an ophthalmologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize eye care, monitor for frequent urination, and follow prescribed medication regimen.
+---
+Patient ID: 574
+Age: 46
+BMI: 27
+Symptoms: Fatigue, Increased Thirst
+Complications: Anemia
+Habits: Regular Exercise, Non-Smoker
+Allergies: Peanuts
+Medication: Iron Supplement and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Iron supplements help with symptoms related to anemia and fatigue. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of anemia. Regular check-ups with a hematologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Alternative iron formulations and SGLT2 inhibitors may be considered. Consult with a hematologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor for fatigue, and follow prescribed medication regimen.
+---
+Patient ID: 575
+Age: 47
+BMI: 29
+Symptoms: Increased Urination at Night, Weight Loss
+Complications: Diabetic Nephropathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Soy
+Medication: ACE Inhibitor (Enalapril) and Anti-Inflammatory (Mesalamine)
+- How it Treats Symptoms:
+  - ACE inhibitors help regulate blood pressure and symptoms associated with diabetic nephropathy. Anti-inflammatories assist in managing symptoms related to weight loss.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic nephropathy. Regular nephrological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative ACE inhibitors and anti-inflammatories may be considered. Consult with a nephrologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor for weight loss, and follow prescribed medication regimen.
+---
+Patient ID: 576
+Age: 48
+BMI: 26
+Symptoms: Joint Pain, Insomnia
+Complications: Rheumatoid Arthritis
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Latex
+Medication: DMARD and Melatonin
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. Melatonin aids in sleep.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis. Regular check-ups with a rheumatologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative DMARDs and melatonin may be considered. Consult with a rheumatologist and sleep specialist for suitable alternatives.
+Recommendations: Emphasize joint care, sleep hygiene, and follow prescribed medication regimen.
+---
+Patient ID: 577
+Age: 45
+BMI: 28
+Symptoms: Tingling Sensation, Dry Skin
+Complications: Peripheral Neuropathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Gabapentin and Topical Moisturizer
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. Topical moisturizers address dry skin.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative medications and topical moisturizers may be considered. Consult with a neurologist and dermatologist for suitable alternatives.
+Recommendations: Emphasize foot care, skincare, and follow prescribed medication regimen.
+---
+Patient ID: 578
+Age: 46
+BMI: 27
+Symptoms: Increased Thirst, Numbness in Extremities
+Complications: Peripheral Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Tree Pollen
+Medication: SGLT2 Inhibitor (Dapagliflozin) and Gabapentin
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst. Gabapentin helps manage numbness in extremities.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative SGLT2 inhibitors and gabapentin may be considered. Consult with an endocrinologist and neurologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications, monitor blood sugar levels, and follow prescribed medication regimen.
+---
+Patient ID: 579
+Age: 47
+BMI: 29
+Symptoms: Abdominal Pain, Weight Loss
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Egg
+Medication: Prokinetic Agent (Metoclopramide) and Anti-Inflammatory (Mesalamine)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Anti-inflammatories assist in managing symptoms related to weight loss.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Regular gastroenterological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative prokinetic agents and anti-inflammatories may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor abdominal symptoms, and follow prescribed medication regimen.
+---
+Patient ID: 580
+Age: 48
+BMI: 26
+Symptoms: Blurred Vision, Increased Thirst
+Complications: Diabetic Retinopathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Soy
+Medication: VEGF Inhibitor and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - VEGF inhibitors address blurred vision. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative VEGF inhibitors and SGLT2 inhibitors may be considered. Consult with an ophthalmologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize regular eye check-ups, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 581
+Age: 49
+BMI: 30
+Symptoms: Dry Eyes, Increased Hunger
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: VEGF Inhibitor and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - VEGF inhibitors address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative VEGF inhibitors and GLP-1 receptor agonists may be considered. Consult with an ophthalmologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize eye care, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 582
+Age: 50
+BMI: 27
+Symptoms: Tingling Sensation, Frequent Urination
+Complications: Peripheral Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Egg
+Medication: Gabapentin and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. SGLT2 inhibitors help regulate blood sugar levels, addressing frequent urination.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological and nephrological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative medications and SGLT2 inhibitors may be considered. Consult with a neurologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor for frequent urination, and follow prescribed medication regimen.
+---
+Patient ID: 583
+Age: 46
+BMI: 27
+Symptoms: Joint Pain, Increased Thirst
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: DMARD and SGLT2 Inhibitor (Dapagliflozin)
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis. Regular check-ups with a rheumatologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative DMARDs and SGLT2 inhibitors may be considered. Consult with a rheumatologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize joint care, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 584
+Age: 47
+BMI: 29
+Symptoms: Abdominal Pain, Weight Loss
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Prokinetic Agent (Metoclopramide) and Anti-Inflammatory (Mesalamine)
+- How it Treats Symptoms:
+  - Prokinetic agents help with abdominal pain. Anti-inflammatories assist in managing symptoms related to weight loss.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Regular gastroenterological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative prokinetic agents and anti-inflammatories may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor abdominal symptoms, and follow prescribed medication regimen.
+---
+Patient ID: 585
+Age: 48
+BMI: 26
+Symptoms: Tingling Sensation, Dry Skin
+Complications: Peripheral Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Soy
+Medication: Gabapentin and Topical Moisturizer
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. Topical moisturizers address dry skin.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative medications and topical moisturizers may be considered. Consult with a neurologist and dermatologist for suitable alternatives.
+Recommendations: Emphasize foot care, skincare, and follow prescribed medication regimen.
+---
+Patient ID: 586
+Age: 49
+BMI: 30
+Symptoms: Blurred Vision, Increased Hunger
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Peanuts
+Medication: VEGF Inhibitor and GLP-1 Receptor Agonist (Lixisenatide)
+- How it Treats Symptoms:
+  - VEGF inhibitors address blurred vision. GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Alternative VEGF inhibitors and GLP-1 receptor agonists may be considered. Consult with an ophthalmologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize eye care, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 587
+Age: 50
+BMI: 27
+Symptoms: Increased Thirst, Weight Loss
+Complications: None
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Egg
+Medication: SGLT2 Inhibitor (Empagliflozin) and Anti-Inflammatory (Mesalamine)
+- How it Treats Symptoms:
+  - SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst. Anti-inflammatories assist in managing symptoms related to weight loss.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative SGLT2 inhibitors and anti-inflammatories may be considered. Consult with an endocrinologist for suitable alternatives.
+Recommendations: Emphasize lifestyle modifications, monitor blood sugar levels, and follow prescribed medication regimen.
+---
+Patient ID: 588
+Age: 46
+BMI: 27
+Symptoms: Frequent Infections, Joint Pain
+Complications: None
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Antibiotics (as needed) and DMARD
+- How it Treats Symptoms:
+  - Antibiotics may be used to address frequent infections. DMARDs help manage joint pain.
+- Guidance on Secondary Complications:
+  - No secondary complications reported.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative antibiotics and DMARDs may be considered. Consult with an allergist and rheumatologist for suitable alternatives.
+Recommendations: Emphasize preventive measures for infections, joint care, and follow prescribed medication regimen.
+---
+Patient ID: 589
+Age: 47
+BMI: 29
+Symptoms: Dry Eyes, Increased Hunger
+Complications: Diabetic Retinopathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Tree Pollen
+Medication: VEGF Inhibitor and GLP-1 Receptor Agonist (Dulaglutide)
+- How it Treats Symptoms:
+  - VEGF inhibitors address dry eyes. GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative VEGF inhibitors and GLP-1 receptor agonists may be considered. Consult with an ophthalmologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize eye care, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 590
+Age: 48
+BMI: 26
+Symptoms: Tingling Sensation, Increased Thirst
+Complications: Peripheral Neuropathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Gabapentin and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological and nephrological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative medications and SGLT2 inhibitors may be considered. Consult with a neurologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor for increased thirst, and follow prescribed medication regimen.
+---
+Patient ID: 591
+Age: 49
+BMI: 30
+Symptoms: Fatigue, Weight Loss
+Complications: Gastroparesis
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Peanuts
+Medication: Prokinetic Agent (Domperidone) and Anti-Inflammatory (Mesalamine)
+- How it Treats Symptoms:
+  - Prokinetic agents help with fatigue and symptoms related to gastroparesis. Anti-inflammatories assist in managing weight loss.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Regular gastroenterological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Alternative prokinetic agents and anti-inflammatories may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor for fatigue, and follow prescribed medication regimen.
+---
+Patient ID: 592
+Age: 50
+BMI: 27
+Symptoms: Tingling Sensation, Increased Thirst
+Complications: Peripheral Neuropathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Soy
+Medication: Gabapentin and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological and nephrological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative medications and SGLT2 inhibitors may be considered. Consult with a neurologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor for increased thirst, and follow prescribed medication regimen.
+---
+Patient ID: 593
+Age: 46
+BMI: 27
+Symptoms: Joint Pain, Increased Thirst
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: DMARD and SGLT2 Inhibitor (Dapagliflozin)
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis. Regular check-ups with a rheumatologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative DMARDs and SGLT2 inhibitors may be considered. Consult with a rheumatologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize joint care, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 594
+Age: 47
+BMI: 29
+Symptoms: Blurred Vision, Increased Hunger
+Complications: Diabetic Retinopathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Tree Pollen
+Medication: VEGF Inhibitor and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - VEGF inhibitors address blurred vision. GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative VEGF inhibitors and GLP-1 receptor agonists may be considered. Consult with an ophthalmologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize eye care, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 595
+Age: 48
+BMI: 26
+Symptoms: Tingling Sensation, Dry Eyes
+Complications: Peripheral Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Egg
+Medication: Gabapentin and Artificial Tears
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. Artificial tears address dry eyes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative medications and artificial tears may be considered. Consult with a neurologist and ophthalmologist for suitable alternatives.
+Recommendations: Emphasize foot care, eye care, and follow prescribed medication regimen.
+---
+Patient ID: 596
+Age: 49
+BMI: 30
+Symptoms: Fatigue, Weight Loss
+Complications: Gastroparesis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Shellfish
+Medication: Prokinetic Agent (Metoclopramide) and Anti-Inflammatory (Mesalamine)
+- How it Treats Symptoms:
+  - Prokinetic agents help with fatigue and symptoms related to gastroparesis. Anti-inflammatories assist in managing weight loss.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Regular gastroenterological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative prokinetic agents and anti-inflammatories may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor for fatigue, and follow prescribed medication regimen.
+---
+Patient ID: 597
+Age: 50
+BMI: 27
+Symptoms: Tingling Sensation, Frequent Urination
+Complications: Peripheral Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Latex
+Medication: Gabapentin and SGLT2 Inhibitor (Dapagliflozin)
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. SGLT2 inhibitors help regulate blood sugar levels, addressing frequent urination.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological and nephrological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative medications and SGLT2 inhibitors may be considered. Consult with a neurologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor for frequent urination, and follow prescribed medication regimen.
+---
+Patient ID: 598
+Age: 46
+BMI: 27
+Symptoms: Joint Pain, Increased Thirst
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: DMARD and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis. Regular check-ups with a rheumatologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative DMARDs and SGLT2 inhibitors may be considered. Consult with a rheumatologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize joint care, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 599
+Age: 47
+BMI: 29
+Symptoms: Blurred Vision, Increased Hunger
+Complications: Diabetic Retinopathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Peanuts
+Medication: VEGF Inhibitor and GLP-1 Receptor Agonist (Lixisenatide)
+- How it Treats Symptoms:
+  - VEGF inhibitors address blurred vision. GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Alternative VEGF inhibitors and GLP-1 receptor agonists may be considered. Consult with an ophthalmologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize eye care, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 600
+Age: 48
+BMI: 26
+Symptoms: Tingling Sensation, Dry Skin
+Complications: Peripheral Neuropathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Soy
+Medication: Gabapentin and Topical Moisturizer
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. Topical moisturizers address dry skin.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative medications and topical moisturizers may be considered. Consult with a neurologist and dermatologist for suitable alternatives.
+Recommendations: Emphasize foot care, skincare, and follow prescribed medication regimen.
+---

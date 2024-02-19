@@ -1,0 +1,144 @@
+Patient ID: 612
+Age: 50
+BMI: 27
+Symptoms: Blurred Vision, Increased Hunger
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: VEGF Inhibitor and GLP-1 Receptor Agonist (Liraglutide)
+- How it Treats Symptoms:
+  - VEGF inhibitors address blurred vision. GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative VEGF inhibitors and GLP-1 receptor agonists may be considered. Consult with an ophthalmologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize eye care, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 613
+Age: 46
+BMI: 27
+Symptoms: Tingling Sensation, Increased Thirst
+Complications: Peripheral Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Soy
+Medication: Gabapentin and SGLT2 Inhibitor (Canagliflozin)
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological and nephrological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative medications and SGLT2 inhibitors may be considered. Consult with a neurologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor for increased thirst, and follow prescribed medication regimen.
+---
+Patient ID: 614
+Age: 47
+BMI: 29
+Symptoms: Joint Pain, Increased Thirst
+Complications: Rheumatoid Arthritis
+Habits: Regular Exercise, Non-Smoker
+Allergies: Peanuts
+Medication: DMARD and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - DMARDs address joint pain associated with rheumatoid arthritis. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of rheumatoid arthritis. Regular check-ups with a rheumatologist are recommended.
+- Allergy Consideration:
+  - Patient is allergic to Peanuts. Alternative DMARDs and SGLT2 inhibitors may be considered. Consult with a rheumatologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize joint care, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 615
+Age: 48
+BMI: 26
+Symptoms: Tingling Sensation, Frequent Urination
+Complications: Peripheral Neuropathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Latex
+Medication: Gabapentin and SGLT2 Inhibitor (Dapagliflozin)
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. SGLT2 inhibitors help regulate blood sugar levels, addressing frequent urination.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological and nephrological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative medications and SGLT2 inhibitors may be considered. Consult with a neurologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize foot care, monitor for frequent urination, and follow prescribed medication regimen.
+---
+Patient ID: 616
+Age: 49
+BMI: 30
+Symptoms: Fatigue, Weight Loss
+Complications: Gastroparesis
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Shellfish
+Medication: Prokinetic Agent (Metoclopramide) and Anti-Inflammatory (Mesalamine)
+- How it Treats Symptoms:
+  - Prokinetic agents help with fatigue and symptoms related to gastroparesis. Anti-inflammatories assist in managing weight loss.
+- Guidance on Secondary Complications:
+  - Monitor for signs of gastroparesis. Regular gastroenterological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Shellfish. Alternative prokinetic agents and anti-inflammatories may be considered. Consult with a gastroenterologist for suitable alternatives.
+Recommendations: Emphasize dietary modifications, monitor for fatigue, and follow prescribed medication regimen.
+---
+Patient ID: 617
+Age: 50
+BMI: 27
+Symptoms: Tingling Sensation, Dry Eyes
+Complications: Peripheral Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Egg
+Medication: Gabapentin and Artificial Tears
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. Artificial tears address dry eyes.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Egg. Alternative medications and artificial tears may be considered. Consult with a neurologist and ophthalmologist for suitable alternatives.
+Recommendations: Emphasize foot care, eye care, and follow prescribed medication regimen.
+---
+Patient ID: 618
+Age: 46
+BMI: 27
+Symptoms: Blurred Vision, Increased Hunger
+Complications: Diabetic Retinopathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Tree Pollen
+Medication: VEGF Inhibitor and GLP-1 Receptor Agonist (Exenatide)
+- How it Treats Symptoms:
+  - VEGF inhibitors address blurred vision. GLP-1 receptor agonists help regulate blood sugar levels, addressing increased hunger.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic retinopathy. Regular eye check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Tree Pollen. Alternative VEGF inhibitors and GLP-1 receptor agonists may be considered. Consult with an ophthalmologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize eye care, lifestyle modifications, and follow prescribed medication regimen.
+---
+Patient ID: 619
+Age: 47
+BMI: 29
+Symptoms: Tingling Sensation, Dry Skin
+Complications: Peripheral Neuropathy
+Habits: Regular Exercise, Non-Smoker
+Allergies: Soy
+Medication: Gabapentin and Topical Moisturizer
+- How it Treats Symptoms:
+  - Gabapentin helps manage tingling sensations. Topical moisturizers address dry skin.
+- Guidance on Secondary Complications:
+  - Monitor for signs of peripheral neuropathy. Regular neurological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Soy. Alternative medications and topical moisturizers may be considered. Consult with a neurologist and dermatologist for suitable alternatives.
+Recommendations: Emphasize foot care, skincare, and follow prescribed medication regimen.
+---
+Patient ID: 620
+Age: 48
+BMI: 26
+Symptoms: Fatigue, Increased Thirst
+Complications: Diabetic Neuropathy
+Habits: Sedentary Lifestyle, Non-Smoker
+Allergies: Latex
+Medication: Analgesic (Pregabalin) and SGLT2 Inhibitor (Empagliflozin)
+- How it Treats Symptoms:
+  - Analgesics help manage fatigue and discomfort associated with diabetic neuropathy. SGLT2 inhibitors help regulate blood sugar levels, addressing increased thirst.
+- Guidance on Secondary Complications:
+  - Monitor for signs of diabetic neuropathy. Regular neurological and nephrological check-ups are crucial.
+- Allergy Consideration:
+  - Patient is allergic to Latex. Alternative analgesics and SGLT2 inhibitors may be considered. Consult with a neurologist and endocrinologist for suitable alternatives.
+Recommendations: Emphasize rest, monitor for increased thirst, and follow prescribed medication regimen.
+---
