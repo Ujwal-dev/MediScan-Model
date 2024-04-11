@@ -69,30 +69,30 @@ def get_chat():
 
 if __name__ == '__main__':
     if __name__ == '__main__':
-    # Define Gunicorn configuration
-    host = os.environ.get('HOST', '0.0.0.0')
-    port = int(os.environ.get('PORT', 5000))
-    workers = int(os.environ.get('WEB_CONCURRENCY', 1))
-    from gunicorn.app.base import BaseApplication
-
-    class StandaloneApplication(BaseApplication):
-        def __init__(self, app, options=None):
-            self.options = options or {}
-            self.application = app
-            super(StandaloneApplication, self).__init__()
-
-        def load_config(self):
-            config = {key: value for key, value in self.options.items() if key in self.cfg.settings and value is not None}
-            for key, value in config.items():
-                self.cfg.set(key.lower(), value)
-
-        def load(self):
-            return self.application
-
-    options = {
-        'bind': '%s:%s' % (host, port),
-        'workers': workers,
-    }
-
-    # Run the Flask app with Gunicorn
-    StandaloneApplication(app, options).run()
+        # Define Gunicorn configuration
+        host = os.environ.get('HOST', '0.0.0.0')
+        port = int(os.environ.get('PORT', 5000))
+        workers = int(os.environ.get('WEB_CONCURRENCY', 1))
+        from gunicorn.app.base import BaseApplication
+    
+        class StandaloneApplication(BaseApplication):
+            def __init__(self, app, options=None):
+                self.options = options or {}
+                self.application = app
+                super(StandaloneApplication, self).__init__()
+    
+            def load_config(self):
+                config = {key: value for key, value in self.options.items() if key in self.cfg.settings and value is not None}
+                for key, value in config.items():
+                    self.cfg.set(key.lower(), value)
+    
+            def load(self):
+                return self.application
+    
+        options = {
+            'bind': '%s:%s' % (host, port),
+            'workers': workers,
+        }
+    
+        # Run the Flask app with Gunicorn
+        StandaloneApplication(app, options).run()
