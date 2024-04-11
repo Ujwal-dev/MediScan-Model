@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 import os
 
 app = Flask(__name__)
-
+CORS(app, origins='*', supports_credentials=True)
 load_dotenv()
 
 llm = GoogleGenerativeAI(model = "gemini-pro") 
