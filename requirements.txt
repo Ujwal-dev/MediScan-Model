@@ -29,6 +29,7 @@ faiss-cpu==1.7.4
 fastapi==0.108.0
 filelock==3.13.1
 filetype==1.2.0
+flask-cors
 frozenlist==1.4.1
 fsspec==2023.12.2
 gitdb==4.0.11
